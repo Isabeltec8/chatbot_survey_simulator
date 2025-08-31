@@ -1,0 +1,4 @@
+2025-08-30 19:38:01,807 - matplotlib.font_manager - WARNING - Matplotlib is building the font cache; this may take a moment.
+2025-08-30 19:38:02,237 - matplotlib.font_manager - INFO - generated new fontManager
+2025-08-30 19:38:03,044 - config - INFO - Generando 1000 respuestas de muestra...
+2025-08-30 19:38:03,055 - config - INFO - Datos de muestra generados exitosamente
